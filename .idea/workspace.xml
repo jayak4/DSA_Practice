@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce704b44-76eb-4423-bbe1-4840f4a51199" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_2/CurrencyConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_2/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_2/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_2/FindTheLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_2/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_2/PrintName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_2/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_2/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_2/ArmstrongNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
