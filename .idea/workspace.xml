@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce704b44-76eb-4423-bbe1-4840f4a51199" name="Changes" comment="" />
+    <list default="true" id="ce704b44-76eb-4423-bbe1-4840f4a51199" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_1/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_1/PrintSumOfAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_1/SumOfTwoNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +42,9 @@
   "keyToString": {
     "Application.LeafYear.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.PrintSumOfAll.executor": "Run",
+    "Application.SumOfTwoNum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
