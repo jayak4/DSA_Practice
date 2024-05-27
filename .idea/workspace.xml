@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce704b44-76eb-4423-bbe1-4840f4a51199" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_7/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_7/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_7/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_7/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_8/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_9/Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,24 +52,34 @@
     "Application.BinarySearchTree.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.CurrencyConversion.executor": "Run",
+    "Application.CyclicSort.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
     "Application.FibonacciNumber.executor": "Run",
     "Application.FindTheLargest.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.LeafYear.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.Pattern.executor": "Run",
     "Application.PrintName.executor": "Run",
     "Application.PrintSumOfAll.executor": "Run",
+    "Application.SelectSort.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
     "Application.SumOfTwoNum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/JAI/IdeaProjects/DSA_Practice/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jai.assignment_9" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
