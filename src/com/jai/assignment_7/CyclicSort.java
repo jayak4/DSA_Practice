@@ -4,10 +4,11 @@ import java.util.Arrays;
 
 public class CyclicSort {
     public static void main(String[] args) {
-        int[] arr = {1,-1,2,4};
+        int[] arr = {1,3,2,4};
         System.out.println("Before CyclicSort:"+ Arrays.toString(arr));
         //MissingPositiveNum(arr);
-        cyclicSortMissingAllNum(arr);
+        cyclicSort(arr);
+        //cyclicSortMissingAllNum(arr);
         System.out.println("After sorting:"+Arrays.toString(arr));
         //printMissingNum(arr);
     }
@@ -31,6 +32,21 @@ public class CyclicSort {
     }
 
     private static void cyclicSort(int[] arr) {
+        for(int i = 0; i < arr.length; i++)
+        {
+            int correct = i+1;
+            while(arr[i] != correct)
+            {
+                int temp = arr[arr[i]-1];
+                arr[arr[i]-1] = arr[i];
+                arr[i] = temp;
+            }
+
+        }
+
+    }
+
+    private static void cyclicSort1(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             while(arr[i] != i+1)
             {

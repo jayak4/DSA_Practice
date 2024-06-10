@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce704b44-76eb-4423-bbe1-4840f4a51199" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_7/CyclicSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_7/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_7/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_8/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_9/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_5/SpiralOrder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_5/spiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/ArrayListReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/MaxProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/PrefectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/SearchRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/SingleNonDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jai/com/jai/assignment_10/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jai/assignment_7/CyclicSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jai/assignment_7/CyclicSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,35 +50,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArmstrongNumber.executor": "Run",
-    "Application.BinarySearchTree.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.CurrencyConversion.executor": "Run",
-    "Application.CyclicSort.executor": "Run",
-    "Application.EvenOrOdd.executor": "Run",
-    "Application.FibonacciNumber.executor": "Run",
-    "Application.FindTheLargest.executor": "Run",
-    "Application.InsertionSort.executor": "Run",
-    "Application.LeafYear.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MultiplicationTable.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.Pattern.executor": "Run",
-    "Application.PrintName.executor": "Run",
-    "Application.PrintSumOfAll.executor": "Run",
-    "Application.SelectSort.executor": "Run",
-    "Application.SimpleCalculator.executor": "Run",
-    "Application.SimpleInterest.executor": "Run",
-    "Application.SumOfTwoNum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/JAI/IdeaProjects/DSA_Practice/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearchTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurrencyConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOrOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeafYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxProduct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrefectSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintSumOfAll.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNonDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralOrder2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfTwoNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.spiralOrder.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/JAI/IdeaProjects/DSA_Practice/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jai.assignment_9" />
@@ -107,6 +120,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/jai/assignment_5/spiralOrder.java</url>
+          <line>15</line>
+          <properties class="com.jai.assignment_5.spiralOrder" method="spiralOrder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
