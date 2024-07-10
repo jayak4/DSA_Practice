@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class LeafYear {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        //System.out.println("Please Input the year:");
+        System.out.println("Please Input the year:");
         int year = in.nextInt();
         if (year % 4 == 0)
         {
