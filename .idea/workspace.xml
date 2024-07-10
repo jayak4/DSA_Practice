@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce704b44-76eb-4423-bbe1-4840f4a51199" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_5/SpiralOrder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_5/spiralOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/ArrayListReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/MaxProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/PrefectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/SearchRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/SingleNonDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/assignment_6/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jai/com/jai/assignment_10/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jai/assignment_7/CyclicSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jai/assignment_7/CyclicSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
